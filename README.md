@@ -1,6 +1,7 @@
 # Edf3ly-E-Commerce
 
 The source code of `Yashry/Edf3ly` e-commerce website. The website built to provide some of organization's services and represent their products with simplicity in mind.
+Website deployed link: `https://edf3ly-e-commerce.netlify.app`.
 
 ## Table of contents
 
@@ -22,6 +23,8 @@ Make sure to have [Node.js](https://nodejs.org/en/download/) installed on your m
 ## Usage
 
 1. Run `$ npm start` to start serving the app, then go to `https://localhost:3000` to view the front and start using the application.
+2. Run `$ npm test` to start testing the app.
+3. Run `$ npm run build` to build the app.
 
 ## Endpoints
 
