@@ -13,9 +13,9 @@ The source code of `Yashry/Edf3ly` e-commerce website. The website built to prov
 
 Make sure to have [Node.js](https://nodejs.org/en/download/) installed on your machine.
 
-1. Clone this repo `$ git clone https://github.com/EnergiaPowered/official-website.git` or using `ssh`.
+1. Clone this repo `$ git clone https://github.com/waleedhesham446/Edf3ly-E-Commerce.git` or using `ssh`.
 
-2. `$ cd Official-website`.
+2. `$ cd Edf3ly-E-Commerce`.
 
 3. Run `$ npm install` to install dependencies and packages in the root.
 
